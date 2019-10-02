@@ -10,3 +10,8 @@ Enter your name and details in this format
 [PLACE]: Varanasi,U.P
 [SKILLS]: C and python-learning
 
+[NAME]: Hrishikesh Agarwal
+[DOB]: 29/10/2000
+[PLACE]: Ghaziabad,U.P
+[SKILLS]: C and C++ and python-learning
+
