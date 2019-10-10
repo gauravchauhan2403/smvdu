@@ -10,3 +10,10 @@ Enter your name and details in this format
 [PLACE]: Varanasi,U.P
 [SKILLS]: C and python-learning
 
+
+[NAME]: Gaurav chauhan(www.github.com/gauravchauhan2403/)
+[DOB]: 04/03/2000
+[PLACE]: New Delhi
+[SKILLS]: C,python etc
+
+
